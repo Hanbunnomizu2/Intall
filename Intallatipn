@@ -1,0 +1,45 @@
+### hanbunnomizu
+
+y=3
+x=7
+z=8
+tak=True
+nie=False
+Nie_wiem=tak and nie
+f=1
+a=1
+b=1
+c=1
+d=1
+e=1
+f=1
+g=1
+h=1
+i=1
+j=1
+k=1
+l=1
+m=1
+n=1
+o=1
+p=1
+r=1
+s=1
+r=1
+s=1
+u=1
+w=1
+witam=1
+zegnam=2
+litera= a or b or c or d or e or f or g  or h or j or i or k or l or m or s or u or w
+for q in range(128):
+	slowo = litera*q
+	while 0==0:
+		f=f+1
+		a=(a*b)-(f)
+		q=q*2
+		if input():
+			for f in range(0,247,4):
+				print(slowo*litera*2)
+				if input():
+					print(True)or print(False) or print(Nie_wiem)
